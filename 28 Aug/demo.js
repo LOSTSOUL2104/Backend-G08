@@ -1,5 +1,5 @@
 const data={
-    "name":"Palak",
+    "name":"Priyansh",
     "age":19,
     "roll no. :" :1234,
 }
